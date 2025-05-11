@@ -19,4 +19,5 @@ lizhenliang/kubernetes-dashboard-amd64:v1.10.1
 portainer/portainer
 lizhenliang/kubernetes-dashboard-amd64:v1.10.1
 goharbor/prepare:v2.13.0
+
 goharbor/prepare:v1.8.1
