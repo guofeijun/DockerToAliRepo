@@ -23,4 +23,6 @@ goharbor/prepare:v1.8.1
 jenkinsci/blueocean
 beginor/gitlab-ce:11.0.1-ce.0
 sonarqube:8.9.6-community
+sonarqube:7.8-community
 postgres:latest
+
